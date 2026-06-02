@@ -15,8 +15,6 @@ https://www.tinkercad.com/things/fYqTK3BGG3I/editel?sharecode=1A70rPvZczrAho_1uq
 
 https://www.tinkercad.com/things/dOwG9PixcRF/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=RW9uvLnNr_HpaEC8VtuJQYmy6i7e8bxCKPd3MBDwhmw
 
-<img width="1171" height="659" alt="image" src="https://github.com/user-attachments/assets/230c50f9-42f9-47d0-92c9-1e992995dd9e" />
-
 
 ## Guia de Operação Servo
 
@@ -67,7 +65,12 @@ O modelo foi projetado com parâmetros ajustáveis para facilitar modificações
 
 O link ira direcionar para esta pagina.
 
+<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/5ff5aa69-5846-4109-a40a-0e1aece01fb6" />
 
 Inicie a simulação
 
 <img width="385" height="106" alt="image" src="https://github.com/user-attachments/assets/7af5fa69-b808-49da-abd9-23cad03605fb" />
+
+Altere as medidas nos sensores para mudar os dados no lcd
+
+<img width="411" height="485" alt="image" src="https://github.com/user-attachments/assets/36407bdc-87be-47b4-b0cd-4380f7263740" />
