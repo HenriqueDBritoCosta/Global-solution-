@@ -74,3 +74,11 @@ Inicie a simulação
 Altere as medidas nos sensores para mudar os dados no lcd
 
 <img width="411" height="485" alt="image" src="https://github.com/user-attachments/assets/36407bdc-87be-47b4-b0cd-4380f7263740" />
+
+## Especificações Técnicas
+
+* Arduino Uno
+* Sensor de Temperatura [TMP36]
+* Sensor de força
+* LCD 16 x 2
+* * Alimentação: 5V
