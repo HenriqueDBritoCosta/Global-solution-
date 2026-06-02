@@ -10,11 +10,11 @@
 
 
 ## Simulador
-
-https://www.tinkercad.com/things/fYqTK3BGG3I/editel?sharecode=1A70rPvZczrAho_1uq41mbFLPTdCH884vGXQIEUGqqw
-
+Servo Motor:
 https://www.tinkercad.com/things/dOwG9PixcRF/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=RW9uvLnNr_HpaEC8VtuJQYmy6i7e8bxCKPd3MBDwhmw
 
+Sensores:
+https://www.tinkercad.com/things/fYqTK3BGG3I/editel?sharecode=1A70rPvZczrAho_1uq41mbFLPTdCH884vGXQIEUGqqw
 
 ## Guia de Operação Servo
 
